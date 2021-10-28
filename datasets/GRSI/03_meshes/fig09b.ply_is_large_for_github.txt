@@ -1,0 +1,1 @@
+The ground truth mesh fig09b.ply is larger than 100MB. Thus, it cannot be uploaded directly to github. Not downloading this mesh will not affect the generation of the results. It can downloaded from https://cloud.tsinghua.edu.cn/d/4cbf3ace009442149090/

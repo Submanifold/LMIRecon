@@ -1,0 +1,1 @@
+Note that we do not have a ground truth for fig12a because it is obtained from a real scan. 
