@@ -53,4 +53,13 @@ You can choose an appropriate batchsize for training according to your environme
 
 ## Citation
 ```
+@article{LMIRecon2021,
+title = {Learning modified indicator functions for surface reconstruction},
+journal = {Computers & Graphics},
+year = {2021},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2021.10.017},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849321002272},
+author = {Dong Xiao and Siyou Lin and Zuoqiang Shi and Bin Wang}
+}
 ```
